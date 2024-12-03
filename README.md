@@ -1,4 +1,4 @@
-<img alt="Coding"
+<img alt="Coding" width=100%
 src=Github-Banner.gif>
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India!!</h3>
