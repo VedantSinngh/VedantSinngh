@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1j6DG4QRS-_4MYcjTqYuPPqGSuW0OzK53)]
+[![MasterHead](https://ibb.co/PN1JhGm)](https://github.com/VedantSinngh)
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India!!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/3848914/media/7d3baf0e82b3b57c5e5bf4ab5c28c6ce.gif">
+<img align="right" alt="Coding" width="400" src="(https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantsinngh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsinngh" /> </p>
 
