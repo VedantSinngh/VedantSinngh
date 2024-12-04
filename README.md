@@ -1,5 +1,5 @@
 <img alt="Coding" width=100% height=500px
-src=Github-Banner.gif>
+src=Banner.png>
 <h1 align="center">Hi 👋, I'm Vedant Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India!!</h3>
 <img align="right" alt="Coding" width="400" src=Coder1.gif>
