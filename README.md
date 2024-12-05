@@ -130,6 +130,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsinngh&show_icons=true&locale=en&layout=compact" alt="vedantsinngh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&" alt="vedantsinngh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&locale=en" alt="vedantsinngh" /></p>
+<div className="flex-container">
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&" alt="vedantsinngh" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&locale=en" alt="vedantsinngh" />
+  </p>
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
