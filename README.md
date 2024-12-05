@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **ARIMA-based Crop Generative Model**
+- 🔭 I’m currently working on **Expense-Tracker**
 
 - 🌱 I’m currently learning **MERN, Next.js, and Machine Learning**
 
