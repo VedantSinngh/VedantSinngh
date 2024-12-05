@@ -1,7 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedant Singh!;" />
-</h1>
 
+<div><h1 align="center">
+    Hi There👋 I'm Vedant Singh!
+</h1>
+</div>
 <h3 align="center">A passionate Full Stack Developer | ML Developer!!</h3>
 <img align="right" alt="Coding" width="400" src=Coder1.gif>
 
