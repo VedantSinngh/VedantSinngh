@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Expense-Tracker**
 
-- 🌱 I’m currently learning **MERN, Next.js, and Machine Learning**
+- 🌱 I’m currently learning **MERN, Next.js,Linear Regression and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://vedant-portfolio-gray.vercel.app/](https://vedant-portfolio-gray.vercel.app/)
 
