@@ -135,7 +135,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&" alt="vedantsinngh" />
   </p>
     <p>
-        [![GitHub Streak](https://streak-stats.demolab.com/?user=vedantsinngh)](https://git.io/streak-stats)
+        <img align="center" src="https://streak-stats.demolab.com/?user=vedantsinngh)" alt="vedantsinngh" />
     </p>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&locale=en" alt="vedantsinngh" />
