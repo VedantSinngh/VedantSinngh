@@ -134,14 +134,14 @@
 
 ## GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsinngh&show_icons=true&locale=en&layout=compact" alt="vedantsinngh" style="filter: invert(1);" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantsinngh&show_icons=true&locale=en&layout=compact&bg_color=000000" alt="vedantsinngh" />
 </p>
 
 <div className="flex-container">
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&" alt="vedantsinngh" style="filter: invert(1);" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&bg_color=000000" alt="vedantsinngh" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&locale=en" alt="vedantsinngh" style="filter: invert(1);" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&locale=en&bg_color=000000" alt="vedantsinngh" />
   </p>
 </div>
