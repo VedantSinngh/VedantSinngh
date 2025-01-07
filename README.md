@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [Portfolio](https://vedant-portfolio-gray.vercel.app/)
 - 📫 How to reach me: **vedaantsinngh@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1t9UMH0ipx4L13cDnUr6iijXzB6-JOgEW/view)
-- ⚡ **Fun fact**: I'm a sports enthusiast with a passion for cricket. I may seem a bit reserved, but when it comes to cricket, I could talk about it for hours!
+- ⚡ **Hobby**: I'm a sports enthusiast with a passion for cricket. I may seem a bit reserved, but when it comes to cricket, I could talk about it for hours!
 
 ## Connect with Me:
 <p align="left">
