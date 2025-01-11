@@ -23,18 +23,7 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1t9UMH0ipx4L13cDnUr6iijXzB6-JOgEW/view)
 
 
-## Connect with Me:
-<p align="left">
-  <a href="https://twitter.com/vedaantsinngh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedaantsinngh" height="30" width="40" style="filter: invert(1);"/>
-  </a>
-  <a href="https://linkedin.com/in/vedant-singh-0b4336258" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-singh-0b4336258" height="30" width="40" style="filter: invert(1);"/>
-  </a>
-  <a href="https://instagram.com/vedaantsinngh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedaantsinngh" height="30" width="40" style="filter: invert(1);"/>
-  </a>
-</p>
+
 <!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vedantsinngh&label=Profile%20views&color=0e75b6&style=flat" alt="vedantsinngh" style="filter: invert(1);" />
 </p> -->
