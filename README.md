@@ -2,16 +2,24 @@
     Hi There👋 I'm Vedant Singh!
 </h1></div>
 <p align="center">
-  <a href="https://twitter.com/vedaantsinngh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedaantsinngh" height="30" width="40" style="filter: invert(1);"/>
+  <a href="mailto:vedaantsinngh@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
+      alt="Email Vedant Singh" height="30" width="30" style="filter: invert(1);" />
   </a>
-  <a href="https://linkedin.com/in/vedant-singh-0b4336258" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-singh-0b4336258" height="30" width="40" style="filter: invert(1);"/>
+  <a href="https://twitter.com/vedaantsinngh" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+      alt="Follow Vedant Singh on Twitter" height="30" width="30" style="filter: invert(1);" />
   </a>
-  <a href="https://instagram.com/vedaantsinngh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedaantsinngh" height="30" width="40" style="filter: invert(1);"/>
+  <a href="https://linkedin.com/in/vedant-singh-0b4336258" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="Connect with Vedant Singh on LinkedIn" height="30" width="30" style="filter: invert(1);" />
+  </a>
+  <a href="https://instagram.com/vedaantsinngh" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      alt="Follow Vedant Singh on Instagram" height="30" width="30" style="filter: invert(1);" />
   </a>
 </p>
+
 <h3 align="center">A passionate Full Stack Developer | ML Developer!!</h3>
 <img align="right" alt="Coding" width="400" src="Coder1.gif">
 
