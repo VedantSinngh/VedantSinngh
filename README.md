@@ -2,10 +2,6 @@
     Hi There👋 I'm Vedant Singh!
 </h1></div>
 <p align="center">
-  <a href="mailto:vedaantsinngh@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" 
-      alt="Email Vedant Singh" height="30" width="30" style="filter: invert(1);" />
-  </a>
   <a href="https://twitter.com/vedaantsinngh" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
       alt="Follow Vedant Singh on Twitter" height="30" width="30" style="filter: invert(1);" />
