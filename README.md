@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="400" src="Coder1.gif">
 
 ## About Me
-- 🔭 I’m currently working on **GPS Tracking System**
+- 🔭 I’m currently working on **App Development**
 - 🌱 I’m currently learning **Next.js and Supervised Machine Learning**
 - 👨‍💻 All of my projects are available at [Portfolio](https://vedant-portfolio-gray.vercel.app/)
 - 📫 How to reach me: **vedaantsinngh@gmail.com**
