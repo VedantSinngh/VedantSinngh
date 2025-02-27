@@ -17,15 +17,7 @@
 </p>
 
 <h3 align="center">A passionate Full Stack Developer | ML Developer!!</h3>
-<img align="right" alt="Coding" width="400" src="Coder1.gif">
-
-## About Me
-- 🔭 I’m currently working on **App Development**
-- 🌱 I’m currently learning **Next.js and Supervised Machine Learning**
-- 👨‍💻 All of my projects are available at [Portfolio](https://vedant-portfolio-gray.vercel.app/)
-- 📫 How to reach me: **vedaantsinngh@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1t9UMH0ipx4L13cDnUr6iijXzB6-JOgEW/view)
-
+<!-- <img align="right" alt="Coding" width="400" src="Coder1.gif"> -->
 
 
 <!-- <p align="left">
