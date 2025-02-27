@@ -22,7 +22,7 @@
   <a href="https://instagram.com/vedaantsinngh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=0077B6" alt="Instagram" />
   </a>
-  <a href="https://vedantsingh.dev" target="_blank">
+  <a href="[https://vedantsingh.dev](https://vedant-portfolio-gray.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white&color=0077B6" alt="Website" />
   </a>
   <a href="mailto:contact@vedantsingh.dev" target="_blank">
