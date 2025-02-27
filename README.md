@@ -4,35 +4,35 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/wave.gif" width="30px" height="30px"/>
-  <span style="color:#f72585">V</span><span style="color:#b5179e">E</span><span style="color:#7209b7">D</span><span style="color:#560bad">A</span><span style="color:#480ca8">N</span><span style="color:#3a0ca3">T</span> <span style="color:#3f37c9">S</span><span style="color:#4361ee">I</span><span style="color:#4895ef">N</span><span style="color:#4cc9f0">G</span><span style="color:#f72585">H</span>
+  <span style="color:#03045e">V</span><span style="color:#023e8a">E</span><span style="color:#0077b6">D</span><span style="color:#0096c7">A</span><span style="color:#00b4d8">N</span><span style="color:#48cae4">T</span> <span style="color:#90e0ef">S</span><span style="color:#ade8f4">I</span><span style="color:#caf0f8">N</span><span style="color:#0077b6">G</span><span style="color:#023e8a">H</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+ML+Engineer;Transforming+Ideas+into+Digital+Reality;Crafting+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+ML+Engineer;Transforming+Ideas+into+Digital+Reality;Crafting+Intelligent+Solutions" />
 </p>
 
 <!-- Social Media Badges -->
 <p align="center">
   <a href="https://twitter.com/vedaantsinngh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=0077B6" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/vedant-singh-0b4336258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0077B6" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/vedaantsinngh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=0077B6" alt="Instagram" />
   </a>
   <a href="https://vedantsingh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white&color=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white&color=0077B6" alt="Website" />
   </a>
   <a href="mailto:contact@vedantsingh.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0077B6" alt="Email" />
   </a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantsinngh&style=for-the-badge&color=F72585" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vedantsinngh&style=for-the-badge&color=0077B6" alt="Profile Views" />
 </p>
 
 <hr>
@@ -66,11 +66,11 @@ const vedant = {
 
 <hr>
 
-<!-- Tech Stack Section with Animated Gradient -->
+<!-- Tech Stack Section -->
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,tensorflow,pytorch,git,github,docker,aws,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,docker,aws,vscode&perline=8" />
 </div>
 
 <hr>
@@ -80,19 +80,19 @@ const vedant = {
 
 <div align="center">
   <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&icon_color=F72585&hide_border=true&count_private=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&count_private=true" />
   </a>
   <a href="#">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&background=0D1117&border=0D1117&stroke=F72585&ring=F72585&fire=F72585&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F72585&sideLabels=F72585&dates=FFFFFF" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantsinngh&background=000000&border=000000&stroke=0077B6&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B6&sideLabels=0077B6&dates=FFFFFF" />
   </a>
 </div>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinngh&layout=compact&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinngh&layout=compact&bg_color=000000&title_color=0077B6&text_color=FFFFFF&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantsinngh&theme=monokai" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantsinngh&theme=github_dark" />
 </div>
 
 <hr>
@@ -102,10 +102,10 @@ const vedant = {
 
 <div align="center">
   <a href="https://github.com/vedantsinngh/project1">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantsinngh&repo=project1&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&icon_color=F72585&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantsinngh&repo=project1&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true" />
   </a>
   <a href="https://github.com/vedantsinngh/project2">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantsinngh&repo=project2&bg_color=0D1117&title_color=F72585&text_color=FFFFFF&icon_color=F72585&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=vedantsinngh&repo=project2&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true" />
   </a>
 </div>
 
@@ -115,14 +115,7 @@ const vedant = {
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsinngh&bg_color=0D1117&color=F72585&line=7209B7&point=F72585&area=true&hide_border=true" width="100%" />
-</div>
-
-<!-- 3D Contribution Calendar -->
-<div align="center">
-  <a href="https://github.com/vedantsinngh">
-    <img src="https://github.com/vedantsinngh/vedantsinngh/blob/main/assets/3d-contrib.svg" width="800">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantsinngh&bg_color=000000&color=0077B6&line=00B4D8&point=90E0EF&area=true&hide_border=true" width="100%" />
 </div>
 
 <!-- Snake Animation -->
@@ -139,21 +132,18 @@ const vedant = {
 <!-- Trophy Section -->
 <div align="center">
   <h2 align="center">🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=vedantsinngh&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantsinngh&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </div>
 
 <hr>
 
 <!-- Quote Section -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 <hr>
 
-<!-- Footer<div align="center">  <img src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/bottom-footer.svg" width="100%" height="150px" /></div> -->
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
