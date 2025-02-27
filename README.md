@@ -151,10 +151,8 @@ const vedant = {
 
 <hr>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/bottom-footer.svg" width="100%" height="150px" />
-</div>
+<!-- Footer<div align="center">  <img src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/bottom-footer.svg" width="100%" height="150px" /></div> -->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Connect&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
