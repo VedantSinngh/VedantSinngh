@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+ML+Engineer;Transforming+Ideas+into+Digital+Reality;Crafting+Intelligent+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com ?font=Fira+Code&size=22&duration=3000&pause=1000&color=0077B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%7C+ML+Engineer;Transforming+Ideas+into+Digital+Reality;Crafting+Intelligent+Solutions" />
 </p>
 
 <!-- Social Media Badges -->
