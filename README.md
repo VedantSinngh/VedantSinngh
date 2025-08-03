@@ -1,4 +1,4 @@
-<div align="center">
+<div align="centr">
   <img src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/header-banner.gif" alt="Dynamic Developer Banner" width="100%"/>
 </div>
 
