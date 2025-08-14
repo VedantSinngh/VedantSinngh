@@ -38,7 +38,7 @@
 <hr>
 
 <!-- About Me Section -->
-<h2 align="center">⚡ About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <img align="right" width="300" src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/coding.gif" />
