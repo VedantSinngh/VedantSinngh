@@ -76,7 +76,7 @@ const vedant = {
 <hr>
 
 <!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
   <a href="#">
