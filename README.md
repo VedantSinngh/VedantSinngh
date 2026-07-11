@@ -1,102 +1,87 @@
-<!-- Header Banner -->
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/header-banner.gif" 
-    alt="Header Banner"
-    width="100%" 
-  />
+
+<img src="./assets/vedant.png" width="140" style="border-radius:50%" />
+
+### Vedant
+<sub>replace `YOUR_GITHUB_USERNAME` below once you set the repo up</sub>
+
+[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+
 </div>
 
-<!-- Name Heading -->
-<h1 align="center">
-  <img 
-    src="https://raw.githubusercontent.com/vedantsinngh/vedantsinngh/main/assets/wave.gif" 
-    alt="Wave"
-    width="30" 
-  />
-  <span style="color:#03045E">V</span>
-  <span style="color:#023E8A">E</span>
-  <span style="color:#0077B6">D</span>
-  <span style="color:#0096C7">A</span>
-  <span style="color:#00B4D8">N</span>
-  <span style="color:#48CAE4">T</span>
-  <span style="color:#90E0EF">S</span>
-  <span style="color:#ADE8F4">I</span>
-  <span style="color:#CAF0F8">N</span>
-  <span style="color:#0077B6">G</span>
-  <span style="color:#023E8A">H</span>
-</h1>
+<br/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=900&color=0077B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+ML+Engineer;Transforming+Ideas+into+Digital+Reality;Crafting+Intelligent+Solutions"
-    alt="Typing Animation"
-  />
-</p>
+```
+.............................               .. . ..                ...   vedant@srm
+..........................   :=+*#MM$$$$#+-:  .......            .....   ------------------
+........................ :o*M&8B@@@@B%%%%%%8M: .........    ..........   OS: ................ Interview-Prep Mode
+........................o%@@@B@@BBBBBBB%%%%%BWo.... ...... ...........   Uptime: ............. B.Tech CSE (AI-ML), '26
+.....................-=+B@B@@@@@B@@@@B@@B%%BBBBW.....  ...............   Host: ................ SRM Institute of Sci & Tech
+...................+=-+$@@@@@@@@B@@@@@@@@B@@@B%B+ ....................   Kernel: .............. CGPA 9.18
+...................:==*%@@@@B%8W$MM$W&8%B@@@@@@@# ....................   Org: ................. DRDO, Scientific Analysis Group
+.....................-%@B@@%$M#*o++++oo*#$W8B@@@& ....................   Role: ................ Quantum Computing Intern
+......................*8@@8MMMMM#o++=++*#MM$MW@@*.....................
+...................... .W$+*$WW&8&W#+oM&&&W$M*M*......................   Languages.Programming: C++, Python, JavaScript/TS
+.........................&MM&&&%8&W#==M&&%8W$#M-::....................   Languages.ML: .......... PyTorch, Qiskit, LangChain, HF
+.......................:#M*o*###*ooo-:+*o#*o++o+.:....................   Languages.Web: ......... FastAPI, Next.js, React, Node.js
+.......................:*#*++==-=+oo=-++=-:-==*=.::...................   Languages.Data: ........ PostgreSQL, MongoDB, ChromaDB
+........................=#**oo++o*MW$$WM*o+ooo+:::::..................
+........................:+*###***###MM#******o=::::::.................   Focus: ................. VQE, QAOA, circuit optimization,
+.......................:::-*M##MWW$MMM$$$#*##=:::::::.................                                       pulse-level simulation (Qiskit Pulse)
+.....................::::::-#$$M####M##*o#MM+::::::::.................
+.....................:::::-:o$W$$####*#M$W$=:--::::::.................   Leadership: ............ President, HTBSRMIST Dev Club
+....................:::::--:*$$&&&WWWW&&&WM$=::..::::::...............   Hackathons: ............ 1st, Hackademia'25
+.................:::::...:-##MM$W&&&88&WWMM@BW$#o=-:..   .............                                       Top 50, Smart India Hackathon '24
+.....................:=o$&B8+$#MM$$$WW$$M+8@@@@@@@%8WM#o+-:.    ......   Hobbies: ................ Cricket, Table Tennis
+............. ..:=*M&%@@@@@%=&MM#MMMMMM#:W@@@@@@@@@@@@@@@B%&$#o+-.....
+............:#$&%@@@@@@@@@@@-MWM####M#+.$@@@@@@@@@@@BBBBBB@@@@@@8:....   Contact
+...........=%@@@@@@@@@@@@@@@#:WM#***+: M@@@@@@@@@@@@@BBBBBBBBBBB@* :..   Email: ................. your.email@example.com
+..........:B@@@@@@@@@@@@@@@@&.=*oo=-: *@@@@@@@@@@@@@@@@BBBBBBB@B@B=.:.   LinkedIn: .............. linkedin.com/in/YOUR_HANDLE
+.......::.*@@@@@@@@@@@@@@@@@%:+==+:.:+@@@@B@@@@@@@@@@@@@BBBBB@@@B@$.::   GitHub: ................ github.com/YOUR_GITHUB_USERNAME
+::.:..::::%@@@@@@@@@@@@@@@@@@o--:-::.W@B@@@@@@@@@@B@@@@@@@@@B@@@@@8:.:
+::::::::.o@@@@@@@@@@@@@@@@@@@M .....:B@@B@@@@@@@@@@@@@@@@@@@@@@@@@B8=.
+:::::::::&@@@@@@@@@@@@@@@@@@@&: . . o@@@@BB@@@@@@@@@@@@@@@@@@@@@@@B@%-
+::::::::-B@@@@@@@@@@@@@@@@@@@B- ... *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B@&
+::::::::+@@@@@@@@@@@@@@@@@@@@@o ... +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B@B@
+::::::::%@@@@@@@@@@@@@@@@@@@@@$. .. *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+:::::-.o@@@@@@@@@@@@@@@@@@@@@@B: . .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+::::::-%@@@@@@@@@@@@@@@@@@@@@@@= . :B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+::::-:$@@@@@@@@@@@@@@@@@@@@@@@@* . =@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B
+```
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://twitter.com/vedaantsinngh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=0077B6" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/vedaantsinngh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B6" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/vedaantsinngh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=0077B6" alt="Instagram" />
-  </a>
-  <a href="https://vedant-portfolio-gray.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white&color=0077B6" alt="Website" />
-  </a>
-  <a href="mailto:vedaantsinngh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=0077B6" alt="Email" />
-  </a>
-</p>
+<br/>
 
-<!-- Profile Views -->
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=vedantsinngh&style=for-the-badge&color=0077B6" 
-    alt="Profile Views" 
-  />
-</p>
+## 🧠 What I'm building
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,python,tensorflow,pytorch,git,github,docker,aws,vscode&perline=8" 
-    alt="Tech Stack Icons"
-  />
-</div>
-
----
+- **AnalystAI** — full-stack RAG data-analysis platform: FastAPI, Next.js, PostgreSQL, ChromaDB, Groq Llama-3.3-70b, ARIMA forecasting, ReportLab, Docker
+- **Inventory Management System** — MERN + WebSocket, JWT, RBAC, Z-score anomaly detection, Dijkstra's routing, 150+ features
+- **Cloud Cost Optimization Dashboard** — Python, Pandas, SQL, Matplotlib/Seaborn on multi-cloud billing data
+- **Pulse-level VQE for H₂ ground state energy** — Qiskit Pulse, DRDO SAG
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    width="32%" 
-    src="https://github-readme-stats.vercel.app/api?username=vedantsinngh&show_icons=true&bg_color=000000&title_color=00B4D8&text_color=FFFFFF&icon_color=48CAE4&hide_border=true" 
-  />
-  <img 
-    width="32%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=vedantsinngh&background=000000&border=000000&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=48CAE4&sideLabels=48CAE4&dates=FFFFFF" 
-  />
-  <img 
-    width="32%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsinngh&layout=compact&bg_color=000000&title_color=48CAE4&text_color=FFFFFF&hide_border=true" 
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    width="98%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedantsinngh&theme=github_dark" 
-  />
-</p>
----
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)
 
+</div>
+
+## 🛠 Tech Stack
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qiskit](https://img.shields.io/badge/-Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<br/>
+
+<div align="center">
+<sub>📍 SRM Institute of Science and Technology · Chennai, India</sub>
+</div>
